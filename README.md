@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Gabby :)<br>Aspiring Software Engineer<br>Full Stack Software Development student at eMobilis, Nairobi<br>Pretty decent at HTML, CSS, and Bootstrap<br>I also have a tad bit of knowledge in Python and Django<br>Currently learning Kotlin<br>I look forward to learning more languages and developing better skills<br>Reach me at gabriella.wagio@gmail.com
+Hi I'm Gabby :)<br>Aspiring Software Engineer<br>BSc. Mathematics and Computer Science student at Jomo Kenyatta University of Agriculture and Technology<br>Pretty decent at HTML, CSS, and Bootstrap<br>I also have a tad bit of knowledge in Python, Django and Kotlin<br><br>I look forward to learning more languages and developing better skills<br>Reach me at gabriellawagio@gmail.com
 
 
 # 💻 Tech Stack:
