@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabby and I'm a Math and Computer Science Student, from Nairobi, Kenya.<br><br>I'm also doing The Odin Project</p>
+<p align="left">My name is Gabby and I'm a Software Development Student, from Nairobi, Kenya.<br><br>I'm also doing The Odin Project</p>
 
 ###
 
